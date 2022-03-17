@@ -1,6 +1,6 @@
 # GSAuto 
 
-GSAuto, which is the abbriviation of "Genshin impact Auto Script", an automatic script for rescuing travellers from those endless/duplicate/annoying daily request. This is a personal experimental project, please do not use for commercial purposes. The ultimate objective of this project is the implementation of GenshinAI. 
+GSAuto, which is the abbriviation of "Genshin impact Auto Script", an automatic script for rescuing travellers from those endless/duplicate/annoying daily requests. This is a personal experimental project, please do not use for commercial purposes. The ultimate objective of this project is the implementation of GenshinAI. 
 
 We list the basic functions to be realized. 
 
